@@ -1,0 +1,23 @@
+_repo: Marguerite-Verne-Or-Scenes-from-Canadian-Life_6945
+creator:
+  author:
+    agent_name: Armour, Rebecca Agatha
+    birthdate: 1845
+    deathdate: 1891
+    gutenberg_agent_id: '2269'
+    url: http://www.gutenberg.org/2009/agents/2269
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Brunswick -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+title: Marguerite Verne; Or, Scenes from Canadian Life
+url: http://www.gutenberg.org/ebooks/6945
